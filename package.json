@@ -1,5 +1,5 @@
 {
-  "name": "@frankhmr/public-extlib-test",
+  "name": "@frnkhmr/public-extlib-test",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
     "url": "https://github.com/frnkhmr/public-extlib-test.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/@frnkhmr"
   },
   "author": "",
   "license": "ISC"
